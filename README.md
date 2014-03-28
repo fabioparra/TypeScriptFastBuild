@@ -1,4 +1,4 @@
-TypeScriptFastBuild
+TypeScript Fast Build
 ===================
 
 Visual studio build tasks to compile typescript files only when needed
